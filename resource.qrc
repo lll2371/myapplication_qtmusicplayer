@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>C:/Users/李昊宇/Desktop/music_icons/last.png</file>
+        <file>C:/Users/李昊宇/Desktop/music_icons/next.png</file>
+        <file>C:/Users/李昊宇/Desktop/music_icons/order.png</file>
+        <file>C:/Users/李昊宇/Desktop/music_icons/pause.png</file>
+        <file>C:/Users/李昊宇/Desktop/music_icons/playlist.png</file>
+        <file>C:/Users/李昊宇/Desktop/music_icons/random.png</file>
+    </qresource>
+</RCC>

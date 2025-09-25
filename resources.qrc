@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>music_icons/last.png</file>
+        <file>music_icons/next.png</file>
+        <file>music_icons/order.png</file>
+        <file>music_icons/pause.png</file>
+        <file>music_icons/playlist.png</file>
+        <file>music_icons/random.png</file>
+        <file>image/background.jpg</file>
+        <file>music_icons/play.png</file>
+        <file>music_icons/circle.png</file>
+        <file>music/BEAUZ&amp;Linney-Drive You Out 2.0.mp3</file>
+        <file>music/nightcrushing.mp3</file>
+    </qresource>
+</RCC>
