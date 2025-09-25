@@ -1,1 +1,1 @@
-# myapplication_now_a_hole
+# myapplication:___a musicplayer based on qt
